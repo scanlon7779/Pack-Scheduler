@@ -1,0 +1,11 @@
+this is a test
+of the read course
+method in CourseRecordIO
+.java 1 2 3
+,
+\0
+,,,,
+,,
+,,,,,,,,,,
+a b 
+c d e f
